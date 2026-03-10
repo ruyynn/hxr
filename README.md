@@ -66,6 +66,16 @@ HXR runs natively on all major platforms — Linux, Windows, macOS, and Termux (
 
 ---
 
+## 🕷️ Parameter Discovery — Demo
+
+<div align="center">
+
+![Parameter Discovery Demo](param-discovery.gif)
+
+</div>
+
+---
+
 ## 📦 Requirements
 
 Make sure you have the following installed before proceeding:
